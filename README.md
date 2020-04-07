@@ -1,5 +1,5 @@
 # HelperPackage
  ```ABAP
- METHOD t
+ METHODS t
    IMPORTING iv_test TYPE i.
 ``` 
